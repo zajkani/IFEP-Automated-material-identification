@@ -97,7 +97,8 @@ IFEP is research software. Users are responsible for checking numerical correctn
 
 Before public release, add a maintainer contact and contribution policy. Bug reports should include the IFEP version or commit, MATLAB release, relevant configuration, error message, and a minimal reproducible example where possible.
 
-Contact: 
+Contact:
+
 1 - Asghar Zajkani: zajkani@eng.ikiu.ac.ir
    Department of Mechanical Engineering, Faculty of Engineering, Imam Khomeini International University, Qazvin, Iran 
    
