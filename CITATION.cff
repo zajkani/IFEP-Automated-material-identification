@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use IFEP, please cite this software and the associated research publication when available."
+title: "IFEP: Integrated Fast Evolutionary Programming"
+
+Compelete Title: "An integrated self-adaptive and multi-strategy evolutionary programming for fast automated material identification of creep damage constitutive model"
+
+type: software
+authors:
+  - family-names: "Zajkani"
+    given-names: "Asghar"
+version: "0.1.0"
+date-released: "2026-10-26"
+abstract: "MATLAB research software for evolutionary identification of nonlinear material constitutive-model parameters."
+license: "TBD"
+repository-code: "REPLACE_WITH_PUBLIC_GITHUB_REPOSITORY_URL"
+# Add the confirmed associated paper DOI or preprint URL before release.

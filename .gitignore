@@ -1,0 +1,21 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+*.mlappinstall
+
+# Generated figures and results (uncomment selectively if these should not be tracked)
+# *.fig
+# Strategy_results.mat
+
+# Temporary/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Local data and outputs: review before enabling these patterns
+# data/private/
+# results/
