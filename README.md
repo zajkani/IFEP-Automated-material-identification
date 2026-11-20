@@ -64,8 +64,7 @@ IFEP/
 ├── CHANGELOG.md
 ├── .gitignore
 │
-├── assets/
-│   └── IFEP_logo.png
+├── IFEP_logo.png
 │
 ├── src/
 │   └── MATLAB source files and dependencies
