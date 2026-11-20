@@ -152,7 +152,7 @@ If you use IFEP in academic research, please cite both the associated research p
 Every GitHub release of IFEP is archived on **Zenodo**, which assigns it a permanent Digital Object Identifier (DOI).
 
 - **GitHub repository:** <https://github.com/zajkani/IFEP-Automated-material-identification>
-- **Zenodo DOI (all versions):** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+- **Zenodo DOI (all versions):** [10.5281/zenodo.24397727](https://doi.org/10.5281/zenodo.24397727)
 
 Suggested citation:
 
