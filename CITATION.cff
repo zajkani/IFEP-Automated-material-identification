@@ -13,7 +13,7 @@ authors:
     given-names: "Asghar"
     affiliation: "Department of Mechanical Engineering, Imam Khomeini International University (IKIU), Qazvin, Iran"
     email: "zajkani@eng.ikiu.ac.ir"
-    # orcid: "https://orcid.org/0000-0003-3718-9807"
+    orcid: "https://orcid.org/0000-0003-3718-9807"
 version: "1.0.0"
 date-released: "2026-11-20"
 license: MIT
