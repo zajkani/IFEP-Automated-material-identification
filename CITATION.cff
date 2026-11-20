@@ -1,22 +1,33 @@
 cff-version: 1.2.0
-message: "If you use IFEP, please cite this software and its associated research publication."
-title: "IFEP: Integrated Fast Evolutionary Programming for Automated Material Identification"
+message: "If you use IFEP, please cite this software and the associated research publication."
+title: "IFEP: Integrated Fast Evolutionary Programming — Automated Material Identification"
+abstract: >-
+  IFEP (Integrated Fast Evolutionary Programming) is MATLAB research software for
+  automated identification of material parameters in nonlinear constitutive models.
+  It implements an integrated self-adaptive and multi-strategy evolutionary
+  programming framework for fast automated material identification of creep damage
+  constitutive models.
 type: software
-
 authors:
   - family-names: "Zajkani"
     given-names: "Asghar"
-
+    affiliation: "Department of Mechanical Engineering, Imam Khomeini International University (IKIU), Qazvin, Iran"
+    email: "zajkani@eng.ikiu.ac.ir"
+    # orcid: "https://orcid.org/0000-0003-3718-9807"
 version: "1.0.0"
 date-released: "2026-11-20"
-
-abstract: >-
-  IFEP is a MATLAB-based research software framework for automated
-  identification of material parameters in nonlinear constitutive models.
-  It integrates self-adaptive evolutionary programming with multiple
-  mutation strategies, population diversity mechanisms, and elitist
-  selection for efficient inverse material identification.
-
 license: MIT
-
 repository-code: "https://github.com/zajkani/IFEP-Automated-material-identification"
+keywords:
+  - material parameter identification
+  - evolutionary programming
+  - fast evolutionary programming
+  - creep damage
+  - constitutive modeling
+  - inverse problems
+  - MATLAB
+# After the first Zenodo release, uncomment and insert the concept DOI (all versions):
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: "Zenodo concept DOI (all versions)"
