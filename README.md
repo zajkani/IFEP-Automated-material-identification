@@ -1,7 +1,7 @@
 # IFEP — Integrated Fast Evolutionary Programming
 
 <p align="center">
-  <img src="assets/IFEP_logo.png"
+  <img src="IFEP_logo.png"
        alt="IFEP — Automated Material Identification"
        width="720">
 </p>
