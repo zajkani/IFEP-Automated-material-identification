@@ -1,9 +1,9 @@
 # IFEP — Integrated Fast Evolutionary Programming
 
 <p align="center">
-  <img src="IFEP_logo.png"
+  <img src="IFEP_Logo.png"
        alt="IFEP — Automated Material Identification"
-       width="720">
+       width="600">
 </p>
 
 <p align="center">
@@ -12,12 +12,14 @@
 </p>
 
 <p align="center">
+  <a href="https://doi.org/10.5281/zenodo.XXXXXXX"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg" alt="DOI"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/Language-MATLAB-blue" alt="MATLAB">
   <img src="https://img.shields.io/badge/Application-Material%20Identification-orange" alt="Material Identification">
   <img src="https://img.shields.io/badge/Status-Research%20Software-lightgrey" alt="Research Software">
 </p>
 
-<!-- Add the Zenodo DOI badge here after the first public release. -->
+<!-- After the Zenodo release, replace XXXXXXX (badge above and Citation section) with your Zenodo "all versions" DOI number. -->
 
 > **Research software:** IFEP is developed for automated material-parameter identification in nonlinear constitutive models. Users should independently validate numerical results before applying them to engineering decisions.
 
@@ -63,8 +65,8 @@ IFEP/
 ├── LICENSE
 ├── CHANGELOG.md
 ├── .gitignore
-│
-├── IFEP_logo.png
+├── .zenodo.json
+├── IFEP_Logo.png
 │
 ├── src/
 │   └── MATLAB source files and dependencies
@@ -145,21 +147,22 @@ Users should ensure that they have permission to redistribute any experimental d
 
 ## Citation
 
-If you use IFEP in academic research, please cite the associated research publication and the specific software release used in your work.
+If you use IFEP in academic research, please cite both the associated research publication and the specific software release you used.
 
-The software will be archived through **Zenodo**, providing a permanent Digital Object Identifier (DOI) for reproducibility and citation.
+Every GitHub release of IFEP is archived on **Zenodo**, which assigns it a permanent Digital Object Identifier (DOI).
 
-**GitHub repository:** [Insert public repository URL]
+- **GitHub repository:** <https://github.com/zajkani/IFEP-Automated-material-identification>
+- **Zenodo DOI (all versions):** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
 
-**Zenodo DOI:** [To be added after the first public release]
+Suggested citation:
 
-A `CITATION.cff` file is provided to facilitate software citation. Its metadata should be completed before publication.
+> Zajkani, A. (2026). *IFEP: Integrated Fast Evolutionary Programming for Automated Material Identification* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+
+GitHub also provides APA and BibTeX citations, generated from `CITATION.cff`, through the **"Cite this repository"** button in the repository sidebar.
 
 ## License
 
-The software license will be specified in the `LICENSE` file.
-
-The selected license must be consistent with the rights of the authors, co-authors, institution, sponsors, and any third-party software included in the distribution. Do not treat a placeholder or license-selection note as a final license.
+IFEP is released under the [MIT License](LICENSE).
 
 ## Disclaimer
 
@@ -167,7 +170,7 @@ IFEP is research software provided for scientific and computational research.
 
 Users are responsible for independently verifying numerical implementation, constitutive assumptions, experimental input data, parameter identifiability, and the suitability of the results for their intended applications.
 
-No warranty is provided except as expressly stated in the selected software license.
+No warranty is provided except as expressly stated in the MIT License.
 
 ## Contributions and Contact
 
